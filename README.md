@@ -3,6 +3,7 @@
 > 💻 Interested in **Mobile Application** and **Web Back-end**, **Machine-Learning**<br>
 > ✏️ Attending **Soonchunhyang University** in **3rd grade** undergraduates now<br>
 > 🔥 Published several **Mobile Apps**, and Studying the **Web Back-end** and **Machine-Learning**<br>
+> 🙌 Also, I like **Graphic Design** using **Photoshop and Illustrator**, **Taking Pictures**, and **Playing Guitar** <br>
  
 ### Languages and Frameworks
 
