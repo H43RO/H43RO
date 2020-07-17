@@ -11,8 +11,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://lh3.googleusercontent.com/proxy/IpVcaIWgnO1X8lZzAbRMqv2ek9YoI-h3F6sX69hP1mrhlZVksz-XkzbvrFBCcbPfZTpZI1xk-_xOHvdd_sXcCCW-FHCzP5_GMRkEoctzyePHQxxI0XH5MOlFubI0lyq-xTYjRq_zbupiE8Pt3e1MOvZYrXB427bbgVHYOqbOk_HdFuxEEAu4k-i3kPReJ8Z3N_RA-D3ovQ"></code>
 <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/440px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
