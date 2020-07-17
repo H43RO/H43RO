@@ -1,16 +1,24 @@
 # Don't be afraid of creation.
-### Hello, My name is H43RO (Kim Hyeon Jun)
+### Hello, My name is 'H43RO' (Kim Hyeon Jun)
 > 💻 Interested in **Mobile Application** and **Web Back-end**, **Machine-Learning**<br>
-> 🔥 Interested in **Mobile Application** and **Web Back-end**, **Machine-Learning**<br>
-> 🎓 Attending **Soonchunhyang University** in **3rd grade** undergraduates now<br>
+> ✏️ Attending **Soonchunhyang University** in **3rd grade** undergraduates now<br>
+> 🔥 Published several **Mobile Apps**, and Studying the **Web Back-end** and **Machine-Learning**<br>
  
-### Languages and Tools
+### Languages and Frameworks
 
-> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"></code>
+<code><img height="20" src="https://img.favpng.com/13/14/25/the-c-programming-language-png-favpng-x2FKZ86GuA0YStdCDY8nQU5Z4.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://lh3.googleusercontent.com/proxy/IpVcaIWgnO1X8lZzAbRMqv2ek9YoI-h3F6sX69hP1mrhlZVksz-XkzbvrFBCcbPfZTpZI1xk-_xOHvdd_sXcCCW-FHCzP5_GMRkEoctzyePHQxxI0XH5MOlFubI0lyq-xTYjRq_zbupiE8Pt3e1MOvZYrXB427bbgVHYOqbOk_HdFuxEEAu4k-i3kPReJ8Z3N_RA-D3ovQ"></code>
+<code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/440px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
+
 # 
 ![H43RO GitHub Stats](https://github-readme-stats.vercel.app/api?username=H43RO&show_icons=true&hide_border=false)
 
