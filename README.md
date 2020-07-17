@@ -1,0 +1,19 @@
+# Don't be afraid of creation.
+### Hello, My name is H43RO (Kim Hyeon Jun)
+> 💻 Interested in **Mobile Application** and **Web Back-end**, **Machine-Learning**<br>
+> 🔥 Interested in **Mobile Application** and **Web Back-end**, **Machine-Learning**<br>
+> 🎓 Attending **Soonchunhyang University** in **3rd grade** undergraduates now<br>
+ 
+### Languages and Tools
+
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+# 
+![H43RO GitHub Stats](https://github-readme-stats.vercel.app/api?username=H43RO&show_icons=true&hide_border=false)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h43ro/)](https://www.linkedin.com/in/h43ro/) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003985802298)](https://www.facebook.com/profile.php?id=100003985802298)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/haero_kim/)
