@@ -1,4 +1,4 @@
-## Hello, I'm 'H43RO'(Kim Hyeon Jun, 22, 🇰🇷)
+## Hello, I'm 'H43RO'(Kim Hyeon Jun, 🇰🇷)
 💻 Interested in **Mobile Application** and **Web Back-end**, **Machine-Learning**<br>
 
  
