@@ -1,14 +1,14 @@
 ## Hello, I'm 'H43RO'(Kim Hyeon Jun, 🇰🇷)
 💻  Interested in **Mobile Application Engineering**, **Machine-Learning**<br>
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-circle&logo=Android&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-circle&logo=Kotlin&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-circle&logo=Java&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-circle&logo=C%2B%2B&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-circle&logo=Python&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-circle&logo=HTML5&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-circle&logo=CSS3&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-circle&logo=JavaScript&logoColor=white"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp<br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-circle&logo=Android-Studio&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-circle&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-3766AB?style=flat-circle&logo=PyCharm&logoColor=white"/>&nbsp 
