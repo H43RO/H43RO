@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-circle&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-3766AB?style=flat-circle&logo=PyCharm&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-circle&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-circle&logo=Git&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-circle&logo=GitHub&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Apple-000000?style=flat-circle&logo=Apple&logoColor=white"/>&nbsp 
 </p>
 
 ![H43RO's github stats](https://github-readme-stats.vercel.app/api?username=H43RO&show_icons=true)
