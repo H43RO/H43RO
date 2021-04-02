@@ -15,7 +15,12 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-circle&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-circle&logo=Git&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-circle&logo=GitHub&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Apple-000000?style=flat-circle&logo=Apple&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Apple-000000?style=flat-circle&logo=Apple&logoColor=white"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-circle&logo=Adobe-Photoshop&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-circle&logo=Adobe-Illustrator&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-circle&logo=Adobe-After-Effects&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-circle&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
+  
 </p>
 
 ![H43RO's github stats](https://github-readme-stats.vercel.app/api?username=H43RO&show_icons=true)
