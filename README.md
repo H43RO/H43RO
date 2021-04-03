@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3d506e&height=180&section=header&text=H43RO&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn)
 
 
-<h3 align="center">Tech Stack</gb>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp 
