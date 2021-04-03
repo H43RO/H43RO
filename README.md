@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3d506e&height=180&section=header&text=H43RO&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn)
 
+
+<h3 align="center">Tech Stack</gb>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp 
@@ -14,13 +16,15 @@
   <img src="https://img.shields.io/badge/PyCharm-3766AB?style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/RPi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>&nbsp<br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
 </p>
+
+<h3 align = "center">Blog & SNS</h3>
 <p align="center">
   <a href="https://velog.io/@haero_kim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haero_kim"/></a>&nbsp
   <a href="https://www.instagram.com/haero_kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haero_kim/"/></a>&nbsp
