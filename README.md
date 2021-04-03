@@ -1,6 +1,6 @@
-## Hello, I'm 'H43RO'(Kim Hyeon Jun, 🇰🇷)
-💻  Interested in **Mobile Application Engineering**, **Machine-Learning**<br>
-<p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=3d506e&height=180&section=header&text=H43RO&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn)
+
+<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp 
@@ -20,12 +20,16 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
-  
+</p>
+<p align="center">
+  <a href="https://velog.io/@haero_kim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haero_kim"/></a>&nbsp
+  <a href="https://www.instagram.com/haero_kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haero_kim/"/></a>&nbsp
+  <a href="https://www.facebook.com/profile.php?id=100003985802298/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003985802298/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/h43ro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/></a>
 </p>
 
-![H43RO's github stats](https://github-readme-stats.vercel.app/api?username=H43RO&show_icons=true)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h43ro/)](https://www.linkedin.com/in/h43ro/) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003985802298)](https://www.facebook.com/profile.php?id=100003985802298)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/haero_kim/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH43RO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH43RO&count_bg=%237c97c2&title_bg=%2386757E&icon=github.svg&icon_color=%23ffffff&title=hits&edge_flat=true"/></a>
+</p>
+</p>
