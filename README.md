@@ -2,25 +2,25 @@
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp<br>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/PyCharm-3766AB?style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/RPi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>&nbsp<br>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/PyCharm-3766AB?style=flat-square&logo=PyCharm&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/RPi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
 </p>
 
 <h3 align = "center">Blog & SNS</h3>
