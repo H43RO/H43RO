@@ -3,6 +3,13 @@
 <h3>Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/RPi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>&nbsp<br>
+  <br>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
@@ -15,8 +22,6 @@
   <img src="https://img.shields.io/badge/PyCharm-3766AB?style=flat-square&logo=PyCharm&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/RPi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>&nbsp<br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white"/>&nbsp 
