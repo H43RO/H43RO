@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3d506e&height=180&section=header&text=H43RO&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3d506e&height=180&section=header&text=H43RO&fontSize=70&fontColor=FFFFFF&fontAlign=20&fontAlignY=40&animation=fadeIn)
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
+<h3>Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
@@ -23,16 +23,16 @@
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
 </p>
 
-<h3 align = "center">Blog & SNS</h3>
-<p align="center">
+<h3>Blog & SNS</h3>
+<p>
   <a href="https://velog.io/@haero_kim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haero_kim"/></a>&nbsp
   <a href="https://www.instagram.com/haero_kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haero_kim/"/></a>&nbsp
   <a href="https://www.facebook.com/profile.php?id=100003985802298/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003985802298/"/></a>&nbsp
   <a href="https://www.linkedin.com/in/h43ro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/></a>
 </p>
 
-<p align="center">
-  <p align="center">
+<p>
+  <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH43RO&count_bg=%237c97c2&title_bg=%2386757E&icon=github.svg&icon_color=%23ffffff&title=hits&edge_flat=true"/></a>
 </p>
 </p>
