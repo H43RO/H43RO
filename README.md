@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/h43ro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=H43RO&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=H43RO&theme=chalk&row=1&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
   <p>
