@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3d506e&height=180&section=header&text=H43RO&fontSize=70&fontColor=FFFFFF&fontAlign=20&fontAlignY=40&animation=fadeIn)
+![리드미_배너 사본](https://user-images.githubusercontent.com/30336663/131672926-34c72d4b-5237-4267-b3a3-83fa37d40c2a.png)
 
 <h3>Tech Stack</h3>
 <p>
@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp<br>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/PyCharm-3766AB?style=flat-square&logo=PyCharm&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
 </p>
 
 <h3>Blog & SNS</h3>
