@@ -25,7 +25,6 @@
 <p>
   <a href="https://velog.io/@haero_kim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haero_kim"/></a>&nbsp
   <a href="https://www.instagram.com/haero_kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haero_kim/"/></a>&nbsp
-  <a href="https://www.facebook.com/profile.php?id=100003985802298/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003985802298/"/></a>&nbsp
   <a href="https://www.linkedin.com/in/h43ro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/></a>
 </p>
 
